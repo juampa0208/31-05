@@ -1,0 +1,50 @@
+.orange{
+    background-color: rgb(80, 172, 19);
+    border-color: white;
+    border-radius: 5px;
+    margin-top: 1.9px;
+    height: 80px;
+    width: 80px;
+}
+.gray{
+    background-color: gray;
+    border-color: white;
+    border-radius: 5px;
+    height: 80px;
+    width: 80px;
+}
+body{
+    background-color: rgb(7, 83, 64);
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 800px;
+}
+
+.aaa{
+    border-radius: 5px;
+    height: 80px;
+    width: 80px;
+
+}
+
+#container{
+    height: 400px;
+    width: 500px;
+    border: double #fbfbfb 5px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+#container form{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+#container input[type=textfield]{
+    height: 9%;
+    width: 90%;
+    border-radius: 25px;
+    cursor: default;
+    background-color: #fbfbfb;
+}
